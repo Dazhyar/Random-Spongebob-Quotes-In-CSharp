@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Programming Projects\Visual Studio Projects\C# Projects\Console Projects\RandomSponegbobQuotes\RandomSponegbobQuotes\bin\Debug\netcoreapp3.1\RandomSponegbobQuotes.exe
+C:\Users\Lenovo\Desktop\Programming Projects\Visual Studio Projects\C# Projects\Console Projects\RandomSponegbobQuotes\RandomSponegbobQuotes\bin\Debug\netcoreapp3.1\RandomSponegbobQuotes.deps.json
+C:\Users\Lenovo\Desktop\Programming Projects\Visual Studio Projects\C# Projects\Console Projects\RandomSponegbobQuotes\RandomSponegbobQuotes\bin\Debug\netcoreapp3.1\RandomSponegbobQuotes.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Programming Projects\Visual Studio Projects\C# Projects\Console Projects\RandomSponegbobQuotes\RandomSponegbobQuotes\bin\Debug\netcoreapp3.1\RandomSponegbobQuotes.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Programming Projects\Visual Studio Projects\C# Projects\Console Projects\RandomSponegbobQuotes\RandomSponegbobQuotes\bin\Debug\netcoreapp3.1\RandomSponegbobQuotes.dll
+C:\Users\Lenovo\Desktop\Programming Projects\Visual Studio Projects\C# Projects\Console Projects\RandomSponegbobQuotes\RandomSponegbobQuotes\bin\Debug\netcoreapp3.1\RandomSponegbobQuotes.pdb
+C:\Users\Lenovo\Desktop\Programming Projects\Visual Studio Projects\C# Projects\Console Projects\RandomSponegbobQuotes\RandomSponegbobQuotes\obj\Debug\netcoreapp3.1\RandomSponegbobQuotes.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Programming Projects\Visual Studio Projects\C# Projects\Console Projects\RandomSponegbobQuotes\RandomSponegbobQuotes\obj\Debug\netcoreapp3.1\RandomSponegbobQuotes.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Programming Projects\Visual Studio Projects\C# Projects\Console Projects\RandomSponegbobQuotes\RandomSponegbobQuotes\obj\Debug\netcoreapp3.1\RandomSponegbobQuotes.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Programming Projects\Visual Studio Projects\C# Projects\Console Projects\RandomSponegbobQuotes\RandomSponegbobQuotes\obj\Debug\netcoreapp3.1\RandomSponegbobQuotes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Programming Projects\Visual Studio Projects\C# Projects\Console Projects\RandomSponegbobQuotes\RandomSponegbobQuotes\obj\Debug\netcoreapp3.1\RandomSponegbobQuotes.dll
+C:\Users\Lenovo\Desktop\Programming Projects\Visual Studio Projects\C# Projects\Console Projects\RandomSponegbobQuotes\RandomSponegbobQuotes\obj\Debug\netcoreapp3.1\RandomSponegbobQuotes.pdb
+C:\Users\Lenovo\Desktop\Programming Projects\Visual Studio Projects\C# Projects\Console Projects\RandomSponegbobQuotes\RandomSponegbobQuotes\obj\Debug\netcoreapp3.1\RandomSponegbobQuotes.genruntimeconfig.cache
